@@ -54,7 +54,7 @@ function submitQuestion() {
         answerContainer.appendChild(answerImage);
 
         const botName = document.createElement("h1");
-        botName.innerHTML = `Wick Ai <br>`; // اسم البوت
+        botName.innerHTML = `Nemo Ai <br>`; // اسم البوت
         answerTextContainer.appendChild(botName);
 
         const answerParagraph = document.createElement("p");
